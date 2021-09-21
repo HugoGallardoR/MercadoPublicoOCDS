@@ -1,1 +1,0 @@
-Archivos Json se guardan en esta carpeta
